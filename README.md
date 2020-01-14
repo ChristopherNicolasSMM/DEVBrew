@@ -39,14 +39,25 @@ Relatórios para exportação de arquivos
 
 # Processo backlog hardware!
 Selecionar Conexão Hardware
+
 Conectar 
+
 	Verificar retorno das portas, uma a uma ligar.
+	
 	Esperar 5 segundos.
+	
 	Depois obter retorno, e desligar. 
+	
 	Armazenar via integer a sommatória de cada processamento, se tudo ocorrer ok, salvar no log de processamento.
+	
 	Deverá ter historico de atividades.
+	
 Liberar ações via painel.
+
 	Adicionar área para selecionar receita no pinel de operações, e colocar no formulario de receita opção para ir ao painel de operações. 
+	
 	Bilateralidade.
+	
 Comprar sensor de temperatura e realizar processo completo em teste.
+
 
