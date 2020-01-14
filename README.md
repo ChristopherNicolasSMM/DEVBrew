@@ -1,4 +1,4 @@
-#Implantação
+# Implantação
 
 Primeiro crie a pasta DEVBrew em C:\ e coloque todos os arquivos que estejam dentro da pasta DEVBrew\Brew\bin\Debug\ 
 
@@ -22,9 +22,9 @@ Pronto agora estará apto a abrir o programa por meio do arquivo executavel dent
 
 ![alt text](https://github.com/ChristopherNicolasSMM/DEVBrew/blob/master/Imagens/5.png?raw=true)
 
-#--------------------------------------------------------------------------
-#BACKLOG
-#--------------------------------------------------------------------------
+# --------------------------------------------------
+# BACKLOG
+# --------------------------------------------------
 
 Obter imagens dos insumos usados.
 
@@ -37,7 +37,7 @@ Calculo de cores
 Relatórios para exportação de arquivos
 
 
-#Processo backlog hardware!
+# Processo backlog hardware!
 Selecionar Conexão Hardware
 Conectar 
 	Verificar retorno das portas, uma a uma ligar.
