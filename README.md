@@ -22,9 +22,9 @@ Pronto agora estará apto a abrir o programa por meio do arquivo executavel dent
 
 ![alt text](https://github.com/ChristopherNicolasSMM/DEVBrew/blob/master/Imagens/5.png?raw=true)
 
-# --------------------------------------------------
+
 # BACKLOG
-# --------------------------------------------------
+
 
 Obter imagens dos insumos usados.
 
