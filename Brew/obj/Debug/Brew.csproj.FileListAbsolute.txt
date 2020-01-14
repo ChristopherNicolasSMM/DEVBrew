@@ -1,0 +1,95 @@
+c:\users\christopher\documents\visual studio 2015\Projects\Brew\Brew\bin\Debug\Brew.exe.config
+c:\users\christopher\documents\visual studio 2015\Projects\Brew\Brew\bin\Debug\Brew.exe
+c:\users\christopher\documents\visual studio 2015\Projects\Brew\Brew\bin\Debug\Brew.pdb
+c:\users\christopher\documents\visual studio 2015\Projects\Brew\Brew\bin\Debug\MongoDB.Bson.dll
+c:\users\christopher\documents\visual studio 2015\Projects\Brew\Brew\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\christopher\documents\visual studio 2015\Projects\Brew\Brew\bin\Debug\MongoDB.Driver.dll
+c:\users\christopher\documents\visual studio 2015\Projects\Brew\Brew\bin\Debug\MongoDB.Driver.Legacy.dll
+c:\users\christopher\documents\visual studio 2015\Projects\Brew\Brew\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\christopher\documents\visual studio 2015\Projects\Brew\Brew\bin\Debug\MongoDB.Bson.xml
+c:\users\christopher\documents\visual studio 2015\Projects\Brew\Brew\bin\Debug\MongoDB.Driver.xml
+c:\users\christopher\documents\visual studio 2015\Projects\Brew\Brew\bin\Debug\MongoDB.Driver.Core.xml
+c:\users\christopher\documents\visual studio 2015\Projects\Brew\Brew\bin\Debug\MongoDB.Driver.Legacy.xml
+c:\users\christopher\documents\visual studio 2015\Projects\Brew\Brew\obj\Debug\Brew.csprojResolveAssemblyReference.cache
+c:\users\christopher\documents\visual studio 2015\Projects\Brew\Brew\obj\Debug\Brew.Cervejeiro.resources
+c:\users\christopher\documents\visual studio 2015\Projects\Brew\Brew\obj\Debug\Brew.Properties.Resources.resources
+c:\users\christopher\documents\visual studio 2015\Projects\Brew\Brew\obj\Debug\Brew.csproj.GenerateResource.Cache
+c:\users\christopher\documents\visual studio 2015\Projects\Brew\Brew\obj\Debug\Brew.exe
+c:\users\christopher\documents\visual studio 2015\Projects\Brew\Brew\obj\Debug\Brew.pdb
+C:\Users\Christopher\documents\visual studio 2015\Projects\Brew\Brew\obj\Debug\Brew.View.Lupulo.resources
+C:\Users\Christopher\documents\visual studio 2015\Projects\Brew\Brew\obj\Debug\Brew.View.Matrix.resources
+C:\Users\Christopher\documents\visual studio 2015\Projects\Brew\Brew\obj\Debug\Brew.View.Malte.resources
+C:\Users\Christopher\documents\visual studio 2015\Projects\Brew\Brew\obj\Debug\Brew.View.Levedura.resources
+C:\Users\Christopher\documents\visual studio 2015\Projects\Brew\Brew\obj\Debug\Brew.View.Receita.resources
+C:\Users\Christopher\documents\visual studio 2015\Projects\Brew\Brew\obj\Debug\Brew.View.Adjunto.resources
+C:\Users\Christopher\documents\visual studio 2015\Projects\Brew\Brew\obj\Debug\Brew.View.Equipamento.resources
+C:\Users\Christopher\documents\visual studio 2015\Projects\Brew\Brew\obj\Debug\Brew.View.Estilo.resources
+C:\Users\christopher\Desktop\Brew\Brew\bin\Debug\Brew.exe.config
+C:\Users\christopher\Desktop\Brew\Brew\obj\Debug\Brew.exe
+C:\Users\christopher\Desktop\Brew\Brew\obj\Debug\Brew.pdb
+C:\Users\Christopher\Desktop\CNM\Brew\Brew\bin\Debug\Brew.exe.config
+C:\Users\Christopher\Desktop\CNM\Brew\Brew\bin\Debug\Brew.exe
+C:\Users\Christopher\Desktop\CNM\Brew\Brew\bin\Debug\Brew.pdb
+C:\Users\Christopher\Desktop\CNM\Brew\Brew\bin\Debug\MongoDB.Bson.dll
+C:\Users\Christopher\Desktop\CNM\Brew\Brew\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Christopher\Desktop\CNM\Brew\Brew\bin\Debug\MongoDB.Driver.dll
+C:\Users\Christopher\Desktop\CNM\Brew\Brew\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Christopher\Desktop\CNM\Brew\Brew\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Christopher\Desktop\CNM\Brew\Brew\bin\Debug\MongoDB.Bson.xml
+C:\Users\Christopher\Desktop\CNM\Brew\Brew\bin\Debug\MongoDB.Driver.xml
+C:\Users\Christopher\Desktop\CNM\Brew\Brew\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Christopher\Desktop\CNM\Brew\Brew\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\Christopher\Desktop\CNM\Brew\Brew\obj\Debug\Brew.csprojAssemblyReference.cache
+C:\Users\Christopher\Desktop\CNM\Brew\Brew\obj\Debug\Brew.View.Adjunto.resources
+C:\Users\Christopher\Desktop\CNM\Brew\Brew\obj\Debug\Brew.Cervejeiro.resources
+C:\Users\Christopher\Desktop\CNM\Brew\Brew\obj\Debug\Brew.Properties.Resources.resources
+C:\Users\Christopher\Desktop\CNM\Brew\Brew\obj\Debug\Brew.View.Equipamento.resources
+C:\Users\Christopher\Desktop\CNM\Brew\Brew\obj\Debug\Brew.View.Estilo.resources
+C:\Users\Christopher\Desktop\CNM\Brew\Brew\obj\Debug\Brew.View.Levedura.resources
+C:\Users\Christopher\Desktop\CNM\Brew\Brew\obj\Debug\Brew.View.Lupulo.resources
+C:\Users\Christopher\Desktop\CNM\Brew\Brew\obj\Debug\Brew.View.Malte.resources
+C:\Users\Christopher\Desktop\CNM\Brew\Brew\obj\Debug\Brew.View.Matrix.resources
+C:\Users\Christopher\Desktop\CNM\Brew\Brew\obj\Debug\Brew.View.Receita.resources
+C:\Users\Christopher\Desktop\CNM\Brew\Brew\obj\Debug\Brew.csproj.GenerateResource.cache
+C:\Users\Christopher\Desktop\CNM\Brew\Brew\obj\Debug\Brew.csproj.CoreCompileInputs.cache
+C:\Users\Christopher\Desktop\CNM\Brew\Brew\obj\Debug\Brew.csproj.CopyComplete
+C:\Users\Christopher\Desktop\CNM\Brew\Brew\obj\Debug\Brew.exe
+C:\Users\Christopher\Desktop\CNM\Brew\Brew\obj\Debug\Brew.pdb
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\bin\Debug\Brew.exe.config
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\bin\Debug\Brew.exe
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\bin\Debug\Brew.pdb
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\bin\Debug\MongoDB.Bson.dll
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\bin\Debug\MongoDB.Driver.dll
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\bin\Debug\MongoDB.Bson.xml
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\bin\Debug\MongoDB.Driver.xml
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\obj\Debug\Brew.csprojAssemblyReference.cache
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\obj\Debug\Brew.View.Adjunto.resources
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\obj\Debug\Brew.Cervejeiro.resources
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\obj\Debug\Brew.Properties.Resources.resources
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\obj\Debug\Brew.View.Conexao.resources
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\obj\Debug\Brew.View.Equipamento.resources
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\obj\Debug\Brew.View.Estilo.resources
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\obj\Debug\Brew.View.Levedura.resources
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\obj\Debug\Brew.View.Lupulo.resources
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\obj\Debug\Brew.View.Malte.resources
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\obj\Debug\Brew.View.Matrix.resources
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\obj\Debug\Brew.View.PainelOperacoes.resources
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\obj\Debug\Brew.View.Receita.resources
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\obj\Debug\Brew.csproj.GenerateResource.cache
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\obj\Debug\Brew.csproj.CopyComplete
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\obj\Debug\Brew.exe
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\obj\Debug\Brew.pdb
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\obj\Debug\Brew.View.ConexaoHardware.resources
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\bin\Debug\Gauge.CSharp.Lib.dll
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\bin\Debug\AGauge.pdb
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\obj\Debug\Brew.Mensagens.MensagemForm.resources
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\obj\Debug\Brew.View.PerfilAgua.resources
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\obj\Debug\Brew.Funcoes.ExemploComponente.resources
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\bin\Debug\MetroFramework.Design.dll
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\bin\Debug\MetroFramework.dll
+C:\Users\Christopher\Desktop\DevBrew\ProjetoGit\Brew\bin\Debug\MetroFramework.Fonts.dll
